@@ -22,7 +22,7 @@ public class stdinfo {
 		return id;
 	}
 	public void setBloodgroup(String bloodgroup) {
-		Bloodgroup = bloodgroup;
+		this.Bloodgroup = Bloodgroup;
 	}
 	public String getBloodgroup() {
 		return Bloodgroup;
